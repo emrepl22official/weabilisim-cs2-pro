@@ -12,6 +12,8 @@
     "m_flNextBeep": 4508,
     "m_flTimerLength": 4520,
     "m_hPlayerPawn": 2316,
+    "m_hObserverPawn": 2320,
+    "m_bPawnIsAlive": 2324,
     "m_iAccount": 64,
     "m_iHealth": 852,
     "m_iTeamNum": 1011,
@@ -26,6 +28,6 @@
     "m_hController": 5536,
     "m_iszPlayerName": 1784,
     "m_pObserverServices": 5104,
-    "m_iObserverMode": 72,
-    "m_hObserverTarget": 76
+    "m_iObserverMode": 64,
+    "m_hObserverTarget": 68
 }
